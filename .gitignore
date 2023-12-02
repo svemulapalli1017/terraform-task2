@@ -1,0 +1,7 @@
+# Terraform
+.terraform/
+terraform.tfstate*
+terraform-provider-aws*
+
+
+
